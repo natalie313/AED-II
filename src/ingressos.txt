@@ -1,0 +1,21 @@
+1;Show Banda Alpha;150.00;10/11/2026
+2;Show Banda Alpha;150.00;10/11/2026
+1;Festival de Inverno;280.00;05/12/2026
+2;Festival de Inverno;280.00;05/12/2026
+1;Peca Teatro Sonhos;60.00;22/10/2026
+2;Peca Teatro Sonhos;60.00;22/10/2026
+1;Standup Comedy Night;80.00;15/11/2026
+1;Exposicao de Arte Moderna;40.00;01/10/2026
+2;Exposicao de Arte Moderna;40.00;01/10/2026
+1;Show Banda Beta;200.00;20/01/2027
+2;Show Banda Beta;200.00;20/01/2027
+1;Feira Gastronomica;35.00;08/11/2026
+1;Corrida de Rua 10km;90.00;29/11/2026
+2;Corrida de Rua 10km;90.00;29/11/2026
+1;Festival de Musica Eletronica;320.00;14/02/2027
+2;Festival de Musica Eletronica;320.00;14/02/2027
+1;Show Banda Gama;175.00;03/12/2026
+1;Cinema ao Ar Livre;25.00;18/10/2026
+2;Cinema ao Ar Livre;25.00;18/10/2026
+1;Congresso de Tecnologia;450.00;10/03/2027
+1;Show Banda Alpha;150.00;25/12/2026
